@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor em constante evolução <br>
-  🚀 Focado em Backend e Web Development <br>
+  🚀 Focado em Backend e Java Development <br>
   📚 Sempre aprendendo algo novo
 </p>
 
