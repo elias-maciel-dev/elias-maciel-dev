@@ -26,30 +26,6 @@
 
 ---
 
-<h2 align="left">🌐 Conecte-se comigo</h2>
-
-<div align="left">
-  <a href="https://www.instagram.com/_eliasmiiguel" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
-  </a>
-  <!-- Coloque seu LinkedIn abaixo -->
-  <!--
-  <a href="https://linkedin.com/in/seu-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  -->
-</div>
-
----
-
-<h2 align="center">🐍 Snake de contribuições</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elias-maciel-dev/elias-maciel-dev/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 <h2 align="center">📊 Estatísticas</h2>
 
 <p align="center">
@@ -59,4 +35,20 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elias-maciel-dev&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elias-maciel-dev&theme=dracula" />
+</p>
+
+---
+
+<h2 align="center">🌐 Conecte-se comigo</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/_eliasmiiguel" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+  </a>
+  <!-- Adicione seu LinkedIn aqui se quiser -->
+  <!--
+  <a href="https://linkedin.com/in/seu-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  -->
 </p>
